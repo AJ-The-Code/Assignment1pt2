@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e97d312442cc3ed4ca50f6da3126f780
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - red: {instanceID: 0}
+  - blue: {instanceID: 0}
+  - black: {instanceID: 0}
+  - orange: {instanceID: 0}
+  - brown: {instanceID: 0}
+  - purple: {instanceID: 0}
+  - yellow: {instanceID: 0}
+  - beginGame: {fileID: 4440292126190764276, guid: abcd2a4c26a5dfb4dbb18ee396601b1f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
